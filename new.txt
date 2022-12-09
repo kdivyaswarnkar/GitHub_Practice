@@ -28,9 +28,7 @@ checkout branch,branches in git,creating branches in git,branches github,create 
 branch,how to create branches github,how to create branches git,how to create merging branch git,create branch in github,git 
 branching and merging
 
-
-
-what is pull request in Git Hub
+what is pull request in Git Hub in vc
 
 coding,programming,pull request,pull request explainer,coding pull request,collaborative coding,group coding, pull request 
 github,pull request,pull request tutorial,pull request git,github pull request tutorial,create pull request,github pull 
